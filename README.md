@@ -18,7 +18,7 @@ Required Software:
 Python 3.6<
 ```
 
-Using:
+Setup:
 ```
 1. 
 Download this Repo
