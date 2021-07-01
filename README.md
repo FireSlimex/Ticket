@@ -21,7 +21,7 @@ Python 3.6<
 Setup:
 ```
 1. 
-Download this Repo
+Download this Repository
 2.
 Install the Required Software
 Example:
