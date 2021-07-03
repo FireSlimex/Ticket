@@ -1535,8 +1535,7 @@ class MyClient(discord.Client):
                                                             await message.remove_reaction("❎", author)
                                                             await message.remove_reaction("❎", client.user)
                                                             await message.remove_reaction("✅", client.user)
-                                                            await asyncio.sleep(5)
-                                                            ticket_cooldown.remove(guild.id + author.id)
+                                                           
 
 
 
